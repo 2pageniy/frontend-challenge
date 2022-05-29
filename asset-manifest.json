@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/frontend-challenge/static/css/main.e49181c9.css",
-    "main.js": "/frontend-challenge/static/js/main.f9a298df.js",
+    "main.js": "/frontend-challenge/static/js/main.dcfd06df.js",
     "index.html": "/frontend-challenge/index.html",
     "main.e49181c9.css.map": "/frontend-challenge/static/css/main.e49181c9.css.map",
-    "main.f9a298df.js.map": "/frontend-challenge/static/js/main.f9a298df.js.map"
+    "main.dcfd06df.js.map": "/frontend-challenge/static/js/main.dcfd06df.js.map"
   },
   "entrypoints": [
     "static/css/main.e49181c9.css",
-    "static/js/main.f9a298df.js"
+    "static/js/main.dcfd06df.js"
   ]
 }
