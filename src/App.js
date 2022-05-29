@@ -1,6 +1,6 @@
 import './styles/header.css';
 import './styles/app.css';
-import {BrowserRouter} from "react-router-dom";
+import {BrowserRouter, HashRouter} from "react-router-dom";
 import NavBar from "./components/NavBar";
 import AppRouter from "./components/AppRouter";
 import {useEffect, useState} from "react";
@@ -31,10 +31,10 @@ function App() {
             favoriteCats,
             changeFavoriteCat
         }}>
-            <BrowserRouter>
+            <HashRouter>
                 <NavBar/>
                 <AppRouter/>
-            </BrowserRouter>
+            </HashRouter>
         </FavoriteCatsContext.Provider>
     );
 }
